@@ -19,7 +19,7 @@ public class FailSafeIterator {
 				System.out.println(s);
 				list.add("Arun");
 			}
-			
+			System.out.println(list);
 		
 		
 
