@@ -36,9 +36,7 @@ public class JDBC_Updates {
 						        rs.getString("Dept") + " | " +
 						        rs.getString("City") + " | " +
 						        rs.getString("Email")
-						
 						);
-				
 			}
 //			
 //			pst.setInt(1, 204);
