@@ -20,7 +20,5 @@ public class ClassCastException {
 		Animal a = new Animal();
 		Dog d = (Dog)a;
 		
-		
 	}
-	
 }
